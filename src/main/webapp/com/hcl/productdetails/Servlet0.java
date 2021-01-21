@@ -31,13 +31,7 @@ public class Servlet0 extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-//		  response.setContentType("text/html");
-//
-//	        PrintWriter out = response.getWriter();
-//	        out.println("<form action='' method='POST'>");
-//	        out.println("<label>Enter Product (Drink) ID: <input type='text' name='drink-id'></input></label>");
-//	        out.println("<input type='submit'>Get Details</input>");
-//	        out.println("</form>");
+
 	}
 
 	/**
